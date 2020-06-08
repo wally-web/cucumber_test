@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="49.090478">
+<testcase classname="HubSpot login Feature" name="HubSpot login test Scenario" time="49.090478">
+<system-out><![CDATA[Given user is already on login page.........................................passed
+When title of login page is HubSpot Login...................................passed
+Then user enters "wailhachlaf@hotmail.com" and "KH6002kh"...................passed
+Then user click on login button.............................................passed
+Then user on home page......................................................passed
+Then user ckick on contacts.................................................passed
+Then user click on contacts on dropdown.....................................passed
+Then user click on create contact...........................................passed
+Then user enter "test@gmail.com" and "tommy" and "ronny"....................passed
+Then user click on create contact to save...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
